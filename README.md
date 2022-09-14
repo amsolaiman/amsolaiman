@@ -42,8 +42,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="24" height="24"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="24" height="24"/>
 - 🎨 &nbsp; 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="24" height="24"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="24" height="24"/>
+  <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/photoshop.svg" alt="photoshop" width="24" height="24"/>
+  <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/illustrator.svg" alt="illustrator" width="24" height="24"/>
+  <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/xd.svg" alt="xd" width="24" height="24"/>
 
 <a href="https://https://github.com/amsolaiman">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amsolaiman&theme=buefy&show_icons=true" />
