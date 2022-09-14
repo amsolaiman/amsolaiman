@@ -6,7 +6,6 @@
 - 🔍 &nbsp; Looking for a job as Front-end Web Developert and/or Graphic Designer.
 - 📖 &nbsp; Learning more about Wed Design and Development, Systems Analysis and Unity Game Development.
 
-<br/>
 <h3> 📫 &nbsp;Reach me </h3>
 
 [![Mail Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://amsolaiman.github.io/my-portfolio-website/)
@@ -14,7 +13,6 @@
 )](mailto:abdulmoiz.solaiman@gmail.com)
 [![Mail Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulmoiz-solaiman)
 
-<br/>
 <h3> 🛠 &nbsp;Tools I use </h3>
 
 - 💻 &nbsp; 
@@ -43,7 +41,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="24" height="24"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-plain.svg" alt="premierpro" width="24" height="24"/>
 
-<br/>
 <a href="https://https://github.com/amsolaiman">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amsolaiman&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amsolaiman&theme=buefy&layout=compact" />
