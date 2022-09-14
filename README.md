@@ -47,7 +47,7 @@
 
 <a href="https://https://github.com/amsolaiman">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amsolaiman&title_color=a349a3&icon_color=a349a3&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amsolaiman&title_color=a349a3&langs_count=8&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amsolaiman&title_color=a349a3&langs_count=6&layout=compact" />
 </a>
 
 <!---
