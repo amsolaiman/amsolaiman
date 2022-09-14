@@ -1,6 +1,6 @@
 <h2> Hi! I'm Moiz. <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px" height="20px" alt="hi"> </h2>
 
-<h3> 👨🏻‍💻 &nbsp;About me </h3>
+<h3> 🙍 &nbsp;About me </h3>
 
 - 🎓 &nbsp; Studied BS Information Technology (Database Systems) at Mindanao State University, Philippines.
 - ✍️ &nbsp; Pursuing Front-end Web Development and Graphic Design professions.
@@ -14,7 +14,7 @@
 [![Mail Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulmoiz-solaiman)
 
 <br/>
-<h3> 📫 &nbsp;Tools I use </h3>
+<h3> 🔨 &nbsp;Tools I use </h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="32" height="32"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="32" height="32"/>
