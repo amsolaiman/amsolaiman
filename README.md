@@ -2,7 +2,7 @@
 
 <h3> 🙍 &nbsp;About me </h3>
 
-- 🎓 &nbsp; Studied **BS Information Technology (Database Systems)** at Mindanao State University, Philippines.
+- 🎓 &nbsp; Studying **BS Information Technology (Database Systems)** at Mindanao State University, Philippines.
 - 🔍 &nbsp; Looking for a job as **Front-end Web Developer** and **Web Designer**.
 - 💼 &nbsp; Working also as a **Freelance Graphic Designer and Illustrator**. Feel free to contact me.
 - 📖 &nbsp; Learning more about **React Native Development**, **Unity Game Development**, and **CAD Designing**.
@@ -28,8 +28,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="24" height="24"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="24" height="24"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="24" height="24"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactjs" width="32" width="24" height="24"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="32" width="24" height="24"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactjs" width="32" width="24" height="24"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="24" height="24"/>
   <img src="https://cdn.quasar.dev/logo-v2/svg/logo.svg" alt="quasar" width="24" height="24"/>
 - 🛢 &nbsp; 
@@ -44,7 +44,6 @@
 - 🎨 &nbsp; 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="24" height="24"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="24" height="24"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-plain.svg" alt="premierpro" width="24" height="24"/>
 
 <a href="https://https://github.com/amsolaiman">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amsolaiman&theme=buefy&show_icons=true" />
