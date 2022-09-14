@@ -1,4 +1,4 @@
-<h2> Hi! I'm Moiz. </h2> <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px" height="20px" alt="hi">
+<h2> Hi! I'm Moiz. <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px" height="20px" alt="hi"> </h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -6,6 +6,7 @@
 - ✍️ &nbsp; Pursuing Front-end Web Development and Graphic Design professions.
 - 🌱 &nbsp; Learning more about Wed Design and Development, Systems Analysis and Unity Game Development.
 
+<br/>
 <h3> 📫 &nbsp;Reach Me </h3>
 
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
