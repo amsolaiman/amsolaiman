@@ -24,9 +24,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="32" height="32"/>
   <img src="https://cdn.quasar.dev/logo-v2/svg/logo.svg" alt="quasar" width="32" height="32"/>
 </p>
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+<a href="https://https://github.com/amsolaiman">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amsolaiman&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amsolaiman&theme=buefy&layout=compact" />
 </a>
 
 <!---
