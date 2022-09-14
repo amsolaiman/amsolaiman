@@ -4,15 +4,14 @@
 
 - 🎓 &nbsp; Studying **BS Information Technology (Database Systems)** at Mindanao State University, Philippines.
 - 🔍 &nbsp; Looking for a job as **Front-end Web Developer** and **Web Designer**.
-- 💼 &nbsp; Working also as a **Freelance Graphic Designer and Illustrator**. Feel free to contact me.
+- 💼 &nbsp; Working also as a **Freelance Graphic Designer/Illustrator**. Feel free to contact me.
 - 📖 &nbsp; Learning more about **React Native Development**, **Unity Game Development**, and **CAD Designing**.
 - 📄 &nbsp; Have a look at my [**CV**](https://amsolaiman.github.io/my-portfolio-website/static/media/cv.311bea1a63e118bf6f5b.pdf) for more details about me.
 
 <h3> 📫 &nbsp;Reach me </h3>
 
 [![Mail Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://amsolaiman.github.io/my-portfolio-website/)
-[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-)](mailto:abdulmoiz.solaiman@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulmoiz.solaiman@gmail.com)
 [![Mail Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ja.moiz)
 [![Mail Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulmoiz-solaiman)
 [![Mail Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/831728308839383040)
@@ -47,8 +46,8 @@
   <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/xd.svg" alt="xd" width="24" height="24"/>
 
 <a href="https://https://github.com/amsolaiman">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amsolaiman&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amsolaiman&theme=buefy&layout=compact" />
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=amsolaiman&title_color=#a349a3&show_icons=true" />
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amsolaiman&theme=buefy&layout=compact" />
 </a>
 
 <!---
