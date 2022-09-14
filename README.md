@@ -2,9 +2,9 @@
 
 <h3> 🙍 &nbsp;About me </h3>
 
-- 🎓 &nbsp; Studied BS Information Technology (Database Systems) at Mindanao State University, Philippines.
-- 🔍 &nbsp; Looking for a job as Front-end Web Developert and/or Graphic Designer.
-- 📖 &nbsp; Learning more about Wed Design and Development, Systems Analysis and Unity Game Development.
+- 🎓 &nbsp; Studied <b>BS Information Technology (Database Systems)<b/> at Mindanao State University, Philippines.
+- 🔍 &nbsp; Looking for a job as <b>Front-end Web Developert<b/> and/or <b>Graphic Designer<b/>.
+- 📖 &nbsp; Learning more about <b>Mobile App Development<b/>, <b>Unity Game Development<b/>, and <b>CAD Designing<b/>.
 
 <h3> 📫 &nbsp;Reach me </h3>
 
