@@ -20,6 +20,7 @@
 
 <h3> 🛠 &nbsp;Tools I use </h3>
 
+<p align="left">
 - 💻 &nbsp; 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="24" height="24"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="24" height="24"/>
@@ -34,6 +35,8 @@
   <img src="https://cdn.quasar.dev/logo-v2/svg/logo.svg" alt="quasar" width="24" height="24"/>
 - 🛢 &nbsp; 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="24" height="24"/>
+</p>
+<p align="right">
 - ⚙️ &nbsp; 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="24" height="24"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="24" height="24"/>
@@ -44,6 +47,7 @@
 - 🎨 &nbsp; 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="24" height="24"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="24" height="24"/>
+</p>
 
 <a href="https://https://github.com/amsolaiman">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amsolaiman&theme=buefy&show_icons=true" />
