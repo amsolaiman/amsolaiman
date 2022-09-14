@@ -1,4 +1,4 @@
-<h2> Hi! I'm Moiz. <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px" height="20px" alt="hi"> </h2>
+<h2> Hi! I'm Moiz. <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> </h2>
 
 <h3> 🙍 &nbsp;About me </h3>
 
