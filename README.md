@@ -3,8 +3,8 @@
 <h3> 🙍 &nbsp;About me </h3>
 
 - 🎓 &nbsp; Studying **BS Information Technology (Database Systems)** at Mindanao State University, Philippines.
-- 🔍 &nbsp; Looking for a job as **Front-end Web Developer** and **Web Designer**.
-- 💼 &nbsp; Working also as a **Freelance Graphic Designer/Illustrator**. Feel free to contact me.
+- 💼 &nbsp; Looking for a job as **Front-end Web Developer** and **Web Designer**.
+- 👔 &nbsp; Freelancing as a **Graphic Designer/Illustrator**. Feel free to contact me.
 - 📖 &nbsp; Learning more about **React Native Development**, **Unity Game Development**, and **CAD Designing**.
 - 📄 &nbsp; Have a look at my [**CV**](https://amsolaiman.github.io/my-portfolio-website/static/media/cv.311bea1a63e118bf6f5b.pdf) for more details about me.
 
@@ -17,7 +17,7 @@
 [![Mail Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/831728308839383040)
 [![Mail Badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/jasafanar)
 
-<h3> 🛠 &nbsp;Tools I use </h3>
+<h3> 🛠️ &nbsp;Tools I use </h3>
 
 - 💻 &nbsp; 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="24" height="24"/>
@@ -31,6 +31,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactjs" width="32" width="24" height="24"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="24" height="24"/>
   <img src="https://cdn.quasar.dev/logo-v2/svg/logo.svg" alt="quasar" width="24" height="24"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="mui" width="24" height="24"/>
 - 🛢 &nbsp; 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="24" height="24"/>
 - ⚙️ &nbsp; 
