@@ -17,10 +17,6 @@
 [![Mail Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=639090206852)
 [![Mail Badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/jasafanar)
 
-<a href="https://github.com/amsolaiman">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amsolaiman&title_color=000000&langs_count=10&layout=compact" />
-</a>
-
 <h3> 🛠️ &nbsp;Tools I use </h3>
 
 - 💻 &nbsp; 
