@@ -51,7 +51,10 @@
   <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/xd.svg" alt="xd" width="24" height="24"/>
   <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/premiere.svg" alt="xd" width="24" height="24"/>
 
-<h3> ❓ &nbsp;Did you know? </h3>
+<a href="https://github.com/amsolaiman">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amsolaiman&title_color=000000&icon_color=A349A4&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amsolaiman&title_color=000000&langs_count=6&layout=compact" />
+</a>
 
 <!---
 amsolaiman/amsolaiman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
