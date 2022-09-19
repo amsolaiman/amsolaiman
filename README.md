@@ -45,6 +45,9 @@
   <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/photoshop.svg" alt="photoshop" width="24" height="24"/>
   <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/illustrator.svg" alt="illustrator" width="24" height="24"/>
   <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/xd.svg" alt="xd" width="24" height="24"/>
+  <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/premiere.svg" alt="xd" width="24" height="24"/>
+  
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amsolaiman&title_color=000000&langs_count=10&layout=compact" />
 
 <a href="https://https://github.com/amsolaiman">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amsolaiman&title_color=000000&icon_color=a349a3&show_icons=true" />
