@@ -4,7 +4,7 @@
 
 - 🎓 &nbsp; Studying **BS Information Technology (Database Systems)** at Mindanao State University, Philippines.
 - 💼 &nbsp; Looking for a job as **Front-end Web Developer** and **Web Designer**.
-- 👔 &nbsp; Freelancing as a **Graphic Designer/Illustrator**. Feel free to contact me.
+- 🎨 &nbsp; Freelancing as a **Graphic Designer/Illustrator**. Feel free to contact me.
 - 📖 &nbsp; Learning more about **React Native Development**, **Unity Game Development**, and **CAD Designing**.
 - 📄 &nbsp; Have a look at my [**CV**](https://amsolaiman.github.io/my-portfolio-website/static/media/cv.311bea1a63e118bf6f5b.pdf) for more details about me.
 
