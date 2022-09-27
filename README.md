@@ -10,7 +10,7 @@
 
 <h3> 📫 &nbsp;Reach me </h3>
 
-[![Mail Badge](https://img.shields.io/badge/website-A349A3?style=for-the-badge&logo=About.me&logoColor=white)](https://amsolaiman.github.io/my-portfolio-website/)
+[![Mail Badge](https://img.shields.io/badge/website-A349A3?style=for-the-badge&logo=About.me&logoColor=white)](https://moizsolaiman.netlify.app/)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulmoiz.solaiman@gmail.com)
 [![Mail Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ja.moiz)
 [![Mail Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulmoiz-solaiman)
