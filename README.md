@@ -25,8 +25,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="24" height="24"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="24" height="24"/>
 - 🌐 &nbsp; 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="24" height="24"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="24" height="24"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="24" height="24"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="24" height="24"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="32" width="24" height="24"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactjs" width="32" width="24" height="24"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="24" height="24"/>
@@ -45,9 +45,10 @@
   <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/photoshop.svg" alt="photoshop" width="24" height="24"/>
   <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/illustrator.svg" alt="illustrator" width="24" height="24"/>
   <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/xd.svg" alt="xd" width="24" height="24"/>
-  <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/premiere.svg" alt="xd" width="24" height="24"/>
-  <img src="https://seeklogo.com/images/S/sketchup-logo-5248E6166E-seeklogo.com.png" alt="xd" width="24" height="24"/>
-  <img src="https://seeklogo.com/images/A/autocad-logo-C9817CB828-seeklogo.com.png" alt="xd" width="24" height="24"/>
+  <img src="https://seeklogo.com/images/S/sketchup-logo-5248E6166E-seeklogo.com.png" alt="sketchup" width="24" height="24"/>
+  <img src="https://canvas.io/static/occipital/images/v4/chief-architect-icon.png" alt="chiefarchitect" width="24" height="24"/>
+  <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/premiere.svg" alt="premierepro" width="24" height="24"/>
+  <img src="https://seeklogo.com/images/A/autocad-logo-C9817CB828-seeklogo.com.png" alt="autocad" width="24" height="24"/>
 
 <a href="https://github.com/amsolaiman">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amsolaiman&title_color=000000&icon_color=A349A4&show_icons=true" />
