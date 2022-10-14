@@ -34,6 +34,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="mui" width="24" height="24"/>
 - 🛢 &nbsp; 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="24" height="24"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="24" height="24"/>
 - ⚙️ &nbsp; 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="24" height="24"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="24" height="24"/>
@@ -46,7 +47,6 @@
   <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/illustrator.svg" alt="illustrator" width="24" height="24"/>
   <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/xd.svg" alt="xd" width="24" height="24"/>
   <img src="https://seeklogo.com/images/S/sketchup-logo-5248E6166E-seeklogo.com.png" alt="sketchup" width="24" height="24"/>
-  <img src="https://canvas.io/static/occipital/images/v4/chief-architect-icon.png" alt="chiefarchitect" width="24" height="24"/>
   <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/premiere.svg" alt="premierepro" width="24" height="24"/>
   <img src="https://seeklogo.com/images/A/autocad-logo-C9817CB828-seeklogo.com.png" alt="autocad" width="24" height="24"/>
 
