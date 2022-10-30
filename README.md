@@ -3,7 +3,7 @@
 <h3> 🙍 &nbsp;About me </h3>
 
 - 🎓 &nbsp; Studying **BS Information Technology (Database Systems)** at Mindanao State University, Philippines.
-- 💼 &nbsp; Working as a **Front-end Web Developer Intern** at **AP Global IT Solutions Inc.**.
+- 💼 &nbsp; Working as a **Front-end Web Developer** at **AP Global IT Solutions Inc.**.
 - 🎨 &nbsp; Freelancing as a **Graphic Designer/Illustrator**. Feel free to contact me.
 - 📖 &nbsp; Learning more about **React Native Development**, **Unity Game Development**, and **CAD Designing**.
 - 📄 &nbsp; Have a look at my [**CV**](https://github.com/amsolaiman/my-portfolio-website/raw/main/src/assets/cv.pdf) for more details about me.
@@ -45,6 +45,7 @@
 - 🎨 &nbsp; 
   <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/photoshop.svg" alt="photoshop" width="24" height="24"/>
   <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/illustrator.svg" alt="illustrator" width="24" height="24"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="24" height="24"/>
   <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/xd.svg" alt="xd" width="24" height="24"/>
   <img src="https://seeklogo.com/images/S/sketchup-logo-5248E6166E-seeklogo.com.png" alt="sketchup" width="24" height="24"/>
   <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/premiere.svg" alt="premierepro" width="24" height="24"/>
