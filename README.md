@@ -2,8 +2,8 @@
 
 <h3> 🙍 &nbsp;About me </h3>
 
-- 🎓 &nbsp; Studying **BS Information Technology (Database Systems)** at Mindanao State University, Philippines.
-- 💼 &nbsp; Working as a **Front-end Web Developer** at **AP Global IT Solutions Inc.**.
+- 🎓 &nbsp; Studied **BS Information Technology (Database Systems)** at Mindanao State University, Philippines.
+- 💼 &nbsp; Working as a **Software Developer** at **AP Global IT Solutions Inc.**.
 - 🎨 &nbsp; Freelancing as a **Graphic Designer/Illustrator**. Feel free to contact me.
 - 📖 &nbsp; Learning more about **React Native Development**, **Unity Game Development**, and **CAD Designing**.
 - 📄 &nbsp; Have a look at my [**CV**](https://github.com/amsolaiman/my-portfolio-website/raw/main/src/assets/cv.pdf) for more details about me.
