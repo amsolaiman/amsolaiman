@@ -10,7 +10,7 @@
 - 🎨 &nbsp; Freelancing as a **Graphic Designer/Illustrator**. Feel free to contact me.
 - 🎓 &nbsp; Studied **BS Information Technology (Database Systems)** at Mindanao State University, Philippines.
 - 📖 &nbsp; Learning more about **React Native Development**, **Unity Game Development**, and **CAD Designing**.
-- 📄 &nbsp; Have a look at my [**CV**](https://github.com/amsolaiman/my-portfolio-website/raw/main/src/assets/cv.pdf) for more details about me.
+- 📄 &nbsp; Have a look at my [**CV**](https://github.com/amsolaiman/amsolaiman/raw/main/assets/cv.pdf) for more details about me.
 
 <h3> 📫 &nbsp;Reach me </h3>
 
@@ -18,7 +18,7 @@
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulmoiz.solaiman@gmail.com)
 [![Mail Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ja.moiz)
 [![Mail Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulmoiz-solaiman)
-[![Mail Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=639856077909)
+[![Mail Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=639854648528)
 [![Mail Badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/jasafanar)
 
 <h3> 🛠️ &nbsp;Tools I use </h3>
