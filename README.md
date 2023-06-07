@@ -10,7 +10,7 @@
 - 🎨 &nbsp; Freelancing as a **Graphic Designer/Illustrator**. Feel free to contact me.
 - 🎓 &nbsp; Studied **BS Information Technology (Database Systems)** at Mindanao State University, Philippines.
 - 📖 &nbsp; Learning more about **React Native Development**, **Unity Game Development**, and **CAD Designing**.
-- 📄 &nbsp; Have a look at my [**CV**](https://github.com/amsolaiman/amsolaiman/raw/main/assets/cv.pdf) for more details about me.
+- 📄 &nbsp; Have a look at my [**CV**](https://raw.githubusercontent.com/amsolaiman/amsolaiman/main/assets/cv.pdf) for more details about me.
 
 <h3> 📫 &nbsp;Reach me </h3>
 
