@@ -29,16 +29,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="24" height="24"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="24" height="24"/>
 - 🌐 &nbsp; 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="32" width="24" height="24"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactjs" width="32" width="24" height="24"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="32" width="24" height="24"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="24" height="24"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="24" height="24"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="24" height="24"/>
-  <img src="https://raw.githubusercontent.com/amsolaiman/amsolaiman/main/assets/icons/quasar.svg" alt="quasar" width="24" height="24"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="mui" width="24" height="24"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="24" height="24"/>
-  <img src="https://raw.githubusercontent.com/amsolaiman/amsolaiman/main/assets/icons/framer.svg" alt="framer" width="24" height="24"/>
 - 🛢 &nbsp; 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="24" height="24"/>
   <img src="https://raw.githubusercontent.com/amsolaiman/amsolaiman/main/assets/icons/prisma.svg" alt="prisma" width="24" height="24"/>
@@ -49,14 +46,13 @@
   <img src="https://raw.githubusercontent.com/amsolaiman/amsolaiman/main/assets/icons/unity.svg" alt="unity" width="24" height="24"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="24" height="24"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="24" height="24"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" alt="trello" width="24" height="24"/>
 - 🎨 &nbsp; 
   <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/photoshop.svg" alt="photoshop" width="24" height="24"/>
   <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/illustrator.svg" alt="illustrator" width="24" height="24"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="24" height="24"/>
   <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/xd.svg" alt="xd" width="24" height="24"/>
-  <img src="https://raw.githubusercontent.com/amsolaiman/amsolaiman/main/assets/icons/sketchup.svg" alt="sketchup" width="24" height="24"/>
   <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/premiere.svg" alt="premierepro" width="24" height="24"/>
+  <img src="https://raw.githubusercontent.com/amsolaiman/amsolaiman/main/assets/icons/sketchup.svg" alt="sketchup" width="24" height="24"/>
   <img src="https://raw.githubusercontent.com/amsolaiman/amsolaiman/main/assets/icons/autocad.svg" alt="autocad" width="24" height="24"/>
 
 <a href="https://github.com/amsolaiman">
