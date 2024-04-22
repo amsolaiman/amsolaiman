@@ -6,10 +6,10 @@
 
 <h3> 🙍 &nbsp;About me </h3>
 
-- 💼 &nbsp; Working as a **Software Developer** at **AP Global IT Solutions Inc.**.
+- 💼 &nbsp; Working as a **Software Developer** at **AP Global IT Solutions, Inc.**.
 - 🎨 &nbsp; Freelancing as a **Graphic Designer/Illustrator**. Feel free to contact me.
 - 🎓 &nbsp; Studied **BS Information Technology (Database Systems)** at Mindanao State University, Philippines.
-- 📖 &nbsp; Learning more about **React Native Development**, **Unity Game Development**, and **CAD Designing**.
+- 📖 &nbsp; Learning more about **React Native Development** and **Unity Game Development**.
 - 📄 &nbsp; Have a look at my [**resume**](https://raw.githubusercontent.com/amsolaiman/amsolaiman/main/assets/resume.pdf) for more details about me.
 
 <h3> 📫 &nbsp;Reach me </h3>
@@ -24,9 +24,9 @@
 <h3> 🛠️ &nbsp;Tools I use </h3>
 
 - 💻 &nbsp; 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="24" height="24"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="24" height="24"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="24" height="24"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="24" height="24"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="24" height="24"/>
 - 🌐 &nbsp; 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactjs" width="24" height="24"/>
