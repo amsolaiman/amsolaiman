@@ -1,8 +1,6 @@
 <h2> Hi! I'm Moiz. <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> </h2>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amsolaiman/amsolaiman/main/assets/cover.jpg" alt="profile cover" width="100%">
-</p>
+<img src="https://raw.githubusercontent.com/amsolaiman/amsolaiman/main/assets/cover.jpg" alt="profile cover" width="100%">
 
 <h3> 🙍 &nbsp;About me </h3>
 
@@ -24,10 +22,10 @@
 <h3> 🛠️ &nbsp;Tools I use </h3>
 
 - 💻 &nbsp; 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="24" height="24"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="24" height="24"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="24" height="24"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="24" height="24"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="24" height="24"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="24" height="24"/>
 - 🌐 &nbsp; 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactjs" width="24" height="24"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="24" height="24"/>
@@ -38,18 +36,18 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="mui" width="24" height="24"/>
 - 🛢 &nbsp; 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="24" height="24"/>
-  <img src="https://raw.githubusercontent.com/amsolaiman/amsolaiman/main/assets/icons/prisma.svg" alt="prisma" width="24" height="24"/>
+  <img src="https://raw.githubusercontent.com/amsolaiman/assets/main/portfolio-website/prisma.svg" alt="prisma" width="24" height="24"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="24" height="24"/>
 - ⚙️ &nbsp; 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="24" height="24"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="24" height="24"/>
-  <img src="https://raw.githubusercontent.com/amsolaiman/amsolaiman/main/assets/icons/unity.svg" alt="unity" width="24" height="24"/>
+  <img src="https://raw.githubusercontent.com/amsolaiman/assets/main/portfolio-website/unity.svg" alt="unity" width="24" height="24"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="24" height="24"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="24" height="24"/>
 - 🎨 &nbsp; 
-  <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/photoshop.svg" alt="photoshop" width="24" height="24"/>
-  <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/illustrator.svg" alt="illustrator" width="24" height="24"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="24" height="24"/>
+  <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/illustrator.svg" alt="illustrator" width="24" height="24"/>
+  <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/photoshop.svg" alt="photoshop" width="24" height="24"/>
 
 <a href="https://github.com/amsolaiman">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amsolaiman&title_color=000000&icon_color=A349A4&show_icons=true" />
