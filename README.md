@@ -1,6 +1,6 @@
 <h2>
   Hi! I'm Moiz. <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
-  <img src="https://komarev.com/ghpvc/?username=amsolaiman&label=VIEWERS&color=A349A3&style=for-the-badge&abbreviated=true" align="right" />
+  <img src="https://komarev.com/ghpvc/?username=amsolaiman&label=VIEWERS&color=F06EAA&style=for-the-badge&abbreviated=true" style="float: right; line-height: 0;" />
 </h2>
 
 <img src="https://raw.githubusercontent.com/amsolaiman/amsolaiman/main/assets/cover.jpg" alt="profile cover" width="100%">
