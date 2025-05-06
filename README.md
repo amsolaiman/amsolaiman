@@ -7,7 +7,7 @@
 
 <h3> 🙍 &nbsp;About me </h3>
 
-- 💼 &nbsp; Worked as a **Front End Engineer** at **Emapta Versatile Services, Inc.**.
+- 💼 &nbsp; Worked as a **Front End Engineer** at **Emapta Versatile Services, Inc**.
 - 🎨 &nbsp; Freelancing as a **Graphic Designer/Illustrator**. Feel free to contact me.
 - 🎓 &nbsp; Studied **BS Information Technology (Database Systems)** at Mindanao State University, Philippines.
 - 📖 &nbsp; Learning more about **React Native Development** and **Unity Game Development**.
@@ -35,8 +35,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="24" height="24"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="24" height="24"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="24" height="24"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="24" height="24"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="mui" width="24" height="24"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="24" height="24"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="24" height="24"/>
 - 🛢 &nbsp; 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="24" height="24"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" width="24" height="24"/>
@@ -44,6 +45,7 @@
 - ⚙️ &nbsp; 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="24" height="24"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="24" height="24"/>
+  <img src="https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F71e516d3b104486ca1c88e279a88cf33" alt="builder" width="24" height="24"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="24" height="24"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="24" height="24"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="24" height="24"/>
