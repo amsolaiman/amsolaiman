@@ -7,7 +7,7 @@
 
 <h3> 🙍 &nbsp;About me </h3>
 
-- 💼 &nbsp; Worked as a **Software Developer** at **AP Global IT Solutions, Inc.**.
+- 💼 &nbsp; Worked as a **Front End Engineer** at **Emapta Versatile Services, Inc.**.
 - 🎨 &nbsp; Freelancing as a **Graphic Designer/Illustrator**. Feel free to contact me.
 - 🎓 &nbsp; Studied **BS Information Technology (Database Systems)** at Mindanao State University, Philippines.
 - 📖 &nbsp; Learning more about **React Native Development** and **Unity Game Development**.
