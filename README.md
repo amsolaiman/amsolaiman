@@ -7,11 +7,10 @@
 
 <h3> 🙍 &nbsp;About me </h3>
 
-- 💼 &nbsp; Worked as a **Front End Engineer** at **Emapta Versatile Services, Inc**.
-- 🎨 &nbsp; Freelancing as a **Graphic Designer/Illustrator**. Feel free to contact me.
+- 💼 &nbsp; Working as a **Front End Engineer** at **Emapta Versatile Services, Inc**.
 - 🎓 &nbsp; Studied **BS Information Technology (Database Systems)** at Mindanao State University, Philippines.
 - 📖 &nbsp; Learning more about **React Native Development** and **Unity Game Development**.
-- 📄 &nbsp; Have a look at my [**resume**](https://raw.githubusercontent.com/amsolaiman/amsolaiman/main/assets/resume.pdf) for more details about me.
+- 📄 &nbsp; Have a look at my [**resume**](https://raw.githubusercontent.com/amsolaiman/amsolaiman/main/assets/resume.pdf) to know more about me.
 
 <h3> 📫 &nbsp;Reach me </h3>
 
@@ -34,10 +33,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="24" height="24"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="24" height="24"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="24" height="24"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="24" height="24"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="mui" width="24" height="24"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="24" height="24"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="24" height="24"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="mui" width="24" height="24"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="24" height="24"/>
 - 🛢 &nbsp; 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="24" height="24"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" width="24" height="24"/>
