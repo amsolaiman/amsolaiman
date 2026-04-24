@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=amsolaiman&label=VIEWERS&color=F06EAA&style=for-the-badge&abbreviated=true" align="right" />
+<img src="https://komarev.com/ghpvc/?username=amsolaiman&label=VIEWERS&color=F06EAA&style=for-the-badge&abbreviated=true" align="right">
 
 ## Hi! I'm Moiz. <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="28px">
 
@@ -22,33 +22,35 @@
 ### 🛠️ &nbsp;Tools I use
 
 - 💻 &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="24" height="24"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="24" height="24"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="24" height="24"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="24" height="24"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="24">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="24">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="24">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="24">
 - 🌐 &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactjs" width="24" height="24"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="24" height="24"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="24" height="24"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="24" height="24"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="24" height="24"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="mui" width="24" height="24"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/quasar/quasar-original.svg" alt="quasar" width="24" height="24"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactjs" width="24">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="24">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="24">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="24">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="24">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="mui" width="24"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/quasar/quasar-original.svg" alt="quasar" width="24">
 - 🛢 &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="24" height="24"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" width="24" height="24"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="24" height="24"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="24">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" width="24">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="24">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="24">
 - ⚙️ &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="24" height="24"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="24" height="24"/>
-  <img src="https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F71e516d3b104486ca1c88e279a88cf33" alt="builder" width="24" height="24"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="24" height="24"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="24" height="24"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="24" height="24"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="24">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="24">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="24">
+  <img src="https://cdn.builder.io/static/media/builder-logo.bb2b7419.png" alt="builder" height="24">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="24">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="24">
 - 🎨 &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="24" height="24"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/illustrator/illustrator-original.svg" alt="illustrator" width="24" height="24"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="24" height="24"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="24">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/illustrator/illustrator-original.svg" alt="illustrator" width="24">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="24">
+
 
 </br>
 
