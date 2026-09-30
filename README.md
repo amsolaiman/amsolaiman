@@ -2,8 +2,6 @@
 
 ## Hi! I'm Moiz. <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="28px">
 
-<img src="https://raw.githubusercontent.com/amsolaiman/amsolaiman/main/assets/cover.png" alt="profile cover" width="100%">
-
 ### 🙍 &nbsp;About me
 
 - 💼 &nbsp; Working as a **Front End Engineer** at **Access Group Australia Pty Ltd**.
@@ -17,7 +15,7 @@
 [![Mail Badge](https://img.shields.io/badge/Portfolio-A349A3?style=for-the-badge&logo=icloud&logoColor=white)](https://www.moizsolaiman.com/)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulmoiz.solaiman@gmail.com)
 [![Mail Badge](https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/amsolaiman/)
-[![Mail Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jasaf_anar)
+[![Mail Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/amsolaiman)
 
 ### 🛠️ &nbsp;Tools I use
 
